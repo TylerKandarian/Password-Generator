@@ -58,6 +58,10 @@ function generatedPassword() {
     optionsCart.push(uppercaseList)
   }
 
+  if (optionsCart.length === 0) {
+    optionsCart.push(numberList)
+  }
+
   var generatedPassword = ""
 
   for (var i = 0; i < passwordLength; i++) {
