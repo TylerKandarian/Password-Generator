@@ -70,7 +70,7 @@ function generatedPassword() {
     generatedPassword += randomChar
   }
 
-  console.log(generatedPassword)
+  return generatedPassword
 
 }
 
