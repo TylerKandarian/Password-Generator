@@ -12,7 +12,7 @@ N/A
 
 https://tylerkandarian.github.io/Password-Generator/
 
-![ScreenShot from deployed site.](./Images/Password-Generator-ss.PNG)
+![ScreenShot from deployed site.](./Assets/Images/Password-Generator-ss.PNG)
 
 ## Credits
 
